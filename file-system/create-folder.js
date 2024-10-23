@@ -1,3 +1,3 @@
 const fs = require('node:fs');
 
-fs.mkdirSync('js');
+fs.mkdirSync('./js');
